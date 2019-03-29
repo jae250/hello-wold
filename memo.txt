@@ -1,0 +1,6 @@
+github pages / jekyll 참조
+https://pages.github.com/
+https://help.github.com/en/articles/using-jekyll-as-a-static-site-generator-with-github-pages
+https://help.github.com/en/articles/using-a-custom-domain-with-github-pages
+https://help.github.com/en/categories/github-pages-basics
+https://jae250.github.io/
